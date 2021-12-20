@@ -1,0 +1,11 @@
+.avatar {
+    width: 10%;
+}
+
+.logo {
+    background-color: #22848b;
+    text-align: center;
+}
+.modal-backdrop {
+    visibility: hidden !important;
+}
